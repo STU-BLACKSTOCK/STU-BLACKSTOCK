@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm Vishal!  
 
-🚀 **AI | ML | Full-Stack Development | LegalTech | MedTech**  
+🚀 **AI | ML | Full-Stack Development **  
 
 I’m passionate about building AI-powered solutions that make a real impact. From **legal research engines** to **AI-driven telemedicine**, I thrive at the intersection of **technology, law, and healthcare**.  
 
