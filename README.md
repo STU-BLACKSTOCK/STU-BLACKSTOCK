@@ -1,23 +1,60 @@
 ### 👋 Hey, I'm Vishal!  
 
-🚀 **AI | ML | Full-Stack Development **  
+🚀 **AI/ML & LLM Engineer | Full-Stack (Supportive Skills)**  
 
-I’m passionate about building AI-powered solutions that make a real impact. From **legal research engines** to **AI-driven telemedicine**, I thrive at the intersection of **technology, law, and healthcare**.  
+I’m focused on building **AI-powered systems** that solve real-world problems, especially in **healthcare, legal tech, and intelligent automation**.  
+My work revolves around **Machine Learning, NLP, and Large Language Models (LLMs)**, with full-stack skills used to deploy and scale these systems.
+
+---
 
 🔹 **Key Projects:**  
-- ⚖️ **AI-Powered Legal Research Engine** – Helping commercial courts streamline legal research.  
-- 🤖 **DoJ Chatbot** – Providing an interactive platform for judicial services.  
-- 📊 **AI-Powered Content Recommendation** – Enhancing personalized content experiences.  
-- 🏥 **AI for Early Disease Detection** – Developing a telemedicine platform for early diagnosis of cancer, heart disease, and mental health conditions.  
-- 🛰 **Smart Weather App (Java Swing)** – Integrating weather data with a GUI-based Java application.  
-- 🗺 **Campus Navigation System (A* & Dijkstra)** – A smart pathfinding solution for university campuses.    
+
+- ⚡ **EnergyMonitor – ML-Based IoT Energy Theft Detection System**  
+  Detects anomalous energy usage patterns using ML + IoT integration.  
+
+- 🤖 **NEXUS AI – Multi-Domain Agent**  
+  Multi-functional AI agent handling tasks across domains using intelligent routing and context handling.  
+
+- 🏥 **WAVE – Waterborne Ailment Vigilance & Elimination**  
+  AI system focused on predicting and preventing waterborne diseases.  
+
+- ⚖️ **Lawme – Commercial Courts Platform (SIH Project)**  
+  Legal-tech platform designed for efficient court-related workflows.  
+
+- 🧠 **DOCOTHON – Medical Data Fragmenter**  
+  Processes and structures medical data for better analysis and accessibility.  
+
+---
+
+🔹 **Other Notable Work:**  
+
+- 🌍 **AI-Powered Travel System**  
+- ✈️ **Netherlands Travel Website**  
+- 🧾 **SEE Eligibility Portal**  
+- 🖼 **Swastify Images (Media Handling Project)**  
+
+---
 
 📌 **Tech Stack:**  
-- **Languages:** Python, Java, JavaScript, C++  
-- **AI/ML:** TensorFlow, OpenCV, NLP, Scikit-learn  
-- **Databases:** MongoDB, SQLite, MySQL  
-- **Web & Tools:** React, Node.js, Flask, FastAPI, Botpress, VS Code  
+
+- **Languages:** Python (Primary), JavaScript, Java, C++  
+- **AI/ML:** TensorFlow, Scikit-learn, OpenCV, NLP  
+- **LLM Focus:** Prompt Engineering, AI Agents, NLP Pipelines  
+- **Backend & Deployment:** FastAPI, Flask, Node.js  
+- **Frontend:** React, TypeScript  
+- **Databases:** MongoDB, MySQL, SQLite  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+📌 **Current Focus:**  
+
+- Building **LLM-based applications & AI agents**  
+- Developing **end-to-end AI systems (model → API → deployment)**  
+- Exploring **real-world AI use cases in healthcare & legal tech**  
+
+---
 
 📬 Let’s connect!  
-[LinkedIn](#) | [YouTube](#) | [Twitter](#)  
 
+[LinkedIn](#) | [YouTube](#) | [Twitter](#)  
